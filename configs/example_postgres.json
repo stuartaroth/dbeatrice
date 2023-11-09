@@ -1,0 +1,9 @@
+{
+    "type": "postgres",
+    "host": "host",
+    "port": "5432",
+    "databaseName": "name",
+    "user": "user",
+    "password": "password",
+    "sslMode": "disable"
+}
